@@ -1,36 +1,57 @@
-## Bem vindo ao Cine Arena
-- Funcionalidades Principais
-Explorar filmes em cartaz
-Selecionar Filme e sessão desejada
-Tipo de ingresso (meia, inteira)
-Reserva de Assento
-Compra e emissão de ingressos
+## Introdução
+Este projeto foi desenvolvido como parte da disciplina de algoritmos e Linguagem de Programação. 
+O sistema simula um totem de autoatendimento de um cinema, permitindo o usuário esolher a sessão, o filme, a sala, e
+o qual o tipo de ingresso.
 
-- Classes Utilizadas
-Filme
-Sessão
-Sala
-Ingresso
-Cinema
-Exibição
-   
-- Tecnologias Utilizadas
-Linguagem de programação : Java
-Estrutura de dados : ArrayList
-Paradigma : Programação Orientada a Objetos
-Abstração, Encapsulamento e Polimorfismo.
-   
-- Desafios Encontrados
-Definiçãodo serviço
-A organização do código
-A utilização do POO
+# 🎬 Sistema de Totem para Compra de Ingressos de Cinema
 
-- Aprendizados
-Compreender melhor a linguagem Java
-A utilização da Programação Orientada a Objetos
-A criação de um totem
-Organização do Código
- Trabalho em equipe
--  
+## ✅ Funcionalidades Principais
+
+- Exploração dos filmes em cartaz
+- Seleção do filme e sessão desejada
+- Escolha do tipo de ingresso (meia-entrada ou inteira)
+- Reserva de assento
+- Compra e emissão de ingressos
+
+---
+
+## 🧱 Classes Utilizadas
+
+- `Filme`
+- `Sessão`
+- `Sala`
+- `Ingresso`
+- `Cinema`
+- `Exibição`
+
+---
+
+## 🛠️ Tecnologias e Conceitos Utilizados
+
+- **Linguagem de Programação:** Java  
+- **Estrutura de Dados:** `ArrayList`  
+- **Paradigma:** Programação Orientada a Objetos (POO)  
+- **Conceitos Aplicados:**
+  - Abstração
+  - Encapsulamento
+  - Polimorfismo
+
+---
+
+## 🚧 Desafios Encontrados
+
+- Definição e escopo dos serviços do sistema
+- Organização e estruturação eficiente do código
+- Aplicação correta dos princípios da Programação Orientada a Objetos
+
+---
+
+## 📚 Aprendizados
+
+- Aprofundamento na linguagem Java
+- Aplicação prática da Programação Orientada a Objetos
+- Criação de um sistema de totem funcional
+- Melhoria na organização e legibilidade do código
+- Desenvolvimento do trabalho em equipe e colaboração
 ```bash
  https://github.com/ArthurMont-code/Cine-Arena.git
